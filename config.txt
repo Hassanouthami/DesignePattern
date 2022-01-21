@@ -1,0 +1,3 @@
+org.designePattern.DP1StrategyPattern.behaviour.implementation.SimpleFly
+org.designePattern.DP1StrategyPattern.behaviour.implementation.SimpleEat
+org.designePattern.DP1StrategyPattern.behaviour.implementation.SimpleDisplay
